@@ -1,0 +1,12 @@
+{
+  "urls" : [
+    {
+      "url":"http://slickdeals.net/?page=1",
+      "method":"GET"
+    },
+    {
+      "url":"http://slickdeals.net/?page=2",
+      "method":"GET"
+    }
+  ]
+}

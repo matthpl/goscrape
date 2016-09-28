@@ -1,0 +1,5 @@
+{
+  "patterns": [
+    ".*((k|K)70)?.*(corsair|Corsair)+.*"
+  ]
+}
